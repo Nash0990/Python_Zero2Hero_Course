@@ -1,2 +1,4 @@
-First Line
-Second Line
+Hello, this is a quick test file.
+THis is line two
+Next line entry
+One more line
